@@ -3,7 +3,7 @@
 I'm a passionate WordPress and Fullstack Web Developer from Pakistan.
 
 - 💻 _WordPress and Fullstack developer at Toptal — June 2021 to Present_
-- 💻 _Web Designer at Constellation1 via Contour Software — Nov 2020 to Present_
+- 💻 _Web Designer at Constellation1 via Contour Software — Nov 2020 to Sep 2022_
 - 💻 _WordPress Developer at Ilmigo — Aug 2020 to Oct 2020_
 - 💻 _WordPress Developer at Computan — May 2019 to Aug 2020_
 - 💻 _Junior Wordpress Developer at Gillan eSolutions — Jul 2018 to Apr 2019_
